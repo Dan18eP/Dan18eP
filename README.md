@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi there, I'm Daniel Echeverría
 
-<!--
-**Dan18eP/Dan18eP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineering student passionate about building real-world tech solutions.  
+🚀 Currently working on web applications that combine **Python, Flask, and data modeling**.  
+📊 Interested in **data analysis, cybersecurity, and intelligent systems**.  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+- Backend: Python (Flask, FastAPI), Node.js (basic)
+- Frontend: HTML, CSS, JavaScript, React, Streamlit
+- Databases: SQLite, PostgreSQL, MySQL, MariaDB
+- Cloud: AWS EC2
+- Tools: MATLAB / Octave, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I enjoy turning complex problems into interactive and practical solutions.
+
+📈 Currently learning:
+- Machine Learning basics
+- API design and integration
+- Scalable web architectures
+
+🤝 Open to collaborating on:
+- Web apps
+- Data-driven projects
+- Anything that challenges me to grow
+
+⚡ Fun fact: I tend to code late at night… but I’m working on fixing that 😅
