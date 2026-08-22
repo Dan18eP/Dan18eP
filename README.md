@@ -14,7 +14,7 @@
 
 ---
 
-## // ABOUT ME
+## <img src="./icons/about.svg" width="22" height="22" /> ABOUT ME
 
 > Systems Engineering student specializing in **Backend Architecture**, **Scalable APIs**, and **AI Automation Systems**. Focused on designing resilient services, clean relational data models, and high-throughput workflows that transform complex business logic into measurable value.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## // TECH STACK & SYSTEM ARCHITECTURE
+## <img src="./icons/stack.svg" width="22" height="22" /> TECH STACK & SYSTEM ARCHITECTURE
 
 <div align="center">
   <img src="./coder.png" alt="Architecture & Tech Stack Overview" width="100%" />
@@ -33,7 +33,7 @@
 
 <br />
 
-### 01. CORE & BACKEND ARCHITECTURE
+### <img src="./icons/backend.svg" width="18" height="18" /> 01. CORE & BACKEND ARCHITECTURE
 ```
 Languages     : Python (Main), TypeScript, JavaScript, SQL, HTML5, CSS3
 Frameworks    : FastAPI, Flask, Node.js, Express.js
@@ -53,7 +53,7 @@ Security      : JWT Authentication, OAuth2, Password Hashing (bcrypt), API Secur
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge)
 
-### 02. DATA PERSISTENCE & STORAGE
+### <img src="./icons/databases.svg" width="18" height="18" /> 02. DATA PERSISTENCE & STORAGE
 ```
 Relational    : PostgreSQL, MySQL, MariaDB, SQLite
 Document / DB : MongoDB, Supabase
@@ -67,7 +67,7 @@ Engineering   : Database Design, Data Modeling, Schema Migrations, Indexing
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
-### 03. AI ENGINEERING & AUTOMATION
+### <img src="./icons/ai.svg" width="18" height="18" /> 03. AI ENGINEERING & AUTOMATION
 ```
 Pipelines     : LangChain, LangGraph, RAG (Retrieval-Augmented Generation)
 Intelligent   : AI Agents, Embeddings, LLM Integration, Prompt Engineering, n8n Workflows
@@ -80,22 +80,23 @@ Intelligent   : AI Agents, Embeddings, LLM Integration, Prompt Engineering, n8n 
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-3776AB?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-1f2430?style=for-the-badge)
 
-### 04. CLOUD, CONTAINERS & INFRASTRUCTURE
+### <img src="./icons/cloud.svg" width="18" height="18" /> 04. CLOUD, CONTAINERS & INFRASTRUCTURE
 ```
 Container     : Docker
 Operating Sys : Linux / Ubuntu
-Cloud / Host  : AWS EC2, Vercel, Render, Netlify
+Cloud / Host  : AWS EC2, Cloudflare, Vercel, Render, Netlify
 ```
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### 05. DATA ANALYSIS & SCIENTIFIC COMPUTING
+### <img src="./icons/data.svg" width="18" height="18" /> 05. DATA ANALYSIS & SCIENTIFIC COMPUTING
 ```
 Libraries     : Pandas, Plotly, Jupyter
 Analytics     : Power BI, Power Query, Excel
@@ -110,7 +111,7 @@ Computing     : MATLAB, Octave, Machine Learning Fundamentals
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-0790BA?style=for-the-badge&logo=gnuoctave&logoColor=white)
 
-### 06. CLIENT INTERFACES & FULL-STACK SUPPORT (Secondary)
+### <img src="./icons/frontend.svg" width="18" height="18" /> 06. CLIENT INTERFACES & FULL-STACK SUPPORT (Secondary)
 ```
 Modern Web    : Next.js, React, Vite, Tailwind CSS, Bootstrap, Streamlit
 ```
@@ -122,21 +123,22 @@ Modern Web    : Next.js, React, Vite, Tailwind CSS, Bootstrap, Streamlit
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 07. WORKFLOW & SYSTEM ENGINEERING
+### <img src="./icons/tools.svg" width="18" height="18" /> 07. WORKFLOW & SYSTEM ENGINEERING
 ```
-Tools         : Git, GitHub, Postman, Figma, Canva
+Tools         : Git, GitHub, Postman, Jira, Figma, Canva
 Disciplines   : Software Architecture, Technical Documentation, Team Leadership
 ```
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## // WHAT I AM BUILDING
+## <img src="./icons/building.svg" width="22" height="22" /> WHAT I AM BUILDING
 
 - **Scalable Backends & APIs**: Robust microservices and REST architectures with Python (FastAPI/Flask), strict schema enforcement, and relational consistency.
 - **AI Agents & RAG Workflows**: Autonomous workflows, vector semantic search, and intelligent automation systems.
@@ -162,7 +164,7 @@ Disciplines   : Software Architecture, Technical Documentation, Team Leadership
 
 ---
 
-## // LET'S CONNECT
+## <img src="./icons/connect.svg" width="22" height="22" /> LET'S CONNECT
 
 <p align="center">
   <a href="https://github.com/Dan18eP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
